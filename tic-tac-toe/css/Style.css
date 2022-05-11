@@ -1,5 +1,5 @@
 body {
-    font-family: "Arial", sans-serif;
+    font-family: "CURSIVE FONT FAMILY", Bradley Hand;
 }
 
 section {
@@ -8,7 +8,7 @@ section {
 
 .game--title {
     font-size: 100px;
-    color: #d7a62f;
+    color: #ec0a0a;
     margin: 10px auto;
 }
 
@@ -17,16 +17,15 @@ section {
     grid-template-columns: repeat(3, auto);
     width: 306px;
     margin: 10px auto;
-    background-color: #11213a;
-    color: #04c0b2;
+    background-color: #fdfeff;
+    color: #050c04;
 }
 
 .cell {
-    font-family: "Permanent Marker", cursive;
+    font-family: "CSS Fonts List", Arial Black;
     width: 100px;
     height: 100px;
-    box-shadow: 2px 2px 2px 2px #ecd7ba;
-    border: 2px solid #ecd7ba;
+    border: 2px solid #fcf803;
     cursor: pointer;
     line-height: 100px;
     font-size: 60px;
@@ -34,16 +33,16 @@ section {
 
 .game--status {
     font-size: 50px;
-    color: #d7a62f;
+    color: #1f10f1;
     margin: 20px auto;
 }
 
 .game--restart {
-    background-color: #f7e4ac;
+    font-family: "SERIF FONT FAMILY", Times New Roman;
+    background-color: #f0efec;
     width: 200px;
     height: 50px;
     font-size: 25px;
-    color: #5586e2;
-    box-shadow: 2px 2px 2px 2px #d86c23;
+    color: #e90bf1;
     border: 2px solid #d86c23;
 }
